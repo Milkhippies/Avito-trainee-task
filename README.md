@@ -1,5 +1,6 @@
 # Avito-trainee-task
 Выполнение тестового задания QA
+
 Задача №1
 Результат выполнения программы, будь то error или StructureWithValues будет находится в Result_JSON
 
